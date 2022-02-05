@@ -3,8 +3,8 @@
 Frontend Software Engineer at [Proof](https://www.proofserve.com/)
 
 - I'm mostly active in the **React Native Community** ![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react)
-- I like to 🎾 🎹 🎮 💻 🎥 🎧
 - Currently learning ![Swift](https://img.shields.io/badge/-Swift-black?style=flat&logo=swift) ![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go) ![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust)
+- I like to 🎾 🎹 🎮 💻 🎥 🎧
 
 <!--## Trophies
 
